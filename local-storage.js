@@ -1,7 +1,4 @@
-/*
- * Simon Last, Sept 2013
- * http://simonlast.org
- */
+
 
 var fs     = require('fs'),
     path   = require('path'),
